@@ -1,0 +1,152 @@
+.abt-box h4{
+    font-size: 24px;
+    margin-bottom: 20px;
+}
+.abt-box p{
+    color: black;
+    line-height: 35px;
+    font-size: 16px;
+    font-weight: 500;
+}
+.about-img-box{
+    margin: 40px 0px;
+}
+.about-img-box img{
+    width: 100%;
+    height: 350px;
+    max-width: 100%;
+    border-radius: 10px;
+    box-shadow: 0px 15px 25px 0px rgb(0 0 0 / 10%);
+}
+.abt-left{
+    padding-right: 40px;
+}
+
+.visiting {
+    text-align: center
+}
+
+.visiting img {
+    margin: auto
+}
+
+.visiting-box {
+    border-radius: 6px;
+    color: #fff;
+    font-size: 20px;
+    font-weight: 700;
+    padding: 20px;
+    min-width: 100%;
+    line-height: 175%;
+    margin-bottom: 30px
+}
+
+.morning {
+    background: #ffd632;
+    color: #333
+}
+
+.evening {
+    background: #2a2a2a
+}
+
+.m_d{
+ font-size: 40px;
+ font-weight: 800;
+ margin-bottom: 15px;
+}
+
+.note{
+ font-size: 25px;
+ font-weight: bold;
+ color: #000;
+}
+
+.section-padding {
+    padding-top: 20px;
+    padding-bottom: 20px;
+}  
+.section-title{
+    margin-bottom: 30px;
+}
+.section-title strong{
+    color: #f52887;
+    font-weight: 700;
+}
+.title-line i {
+    margin-top: 10px;
+    font-size: 25px;
+    color: #f52887;
+}
+.service-box{
+    width: 100%;
+    padding: 28px;
+    height: 90%;
+    border: none;
+    border-radius: 3px;
+    box-shadow: 0px 15px 25px 0px rgb(0 0 0 / 7%);
+    background-size: 100%;
+    background-color: grey;
+    border-radius: 8px;
+    color: white;
+}
+.contact-data-box {
+    padding: 24px;
+    height: 100%;
+    box-shadow: 0px 15px 18px 0px rgb(0 0 0 / 7%);
+    border-radius: 10px;
+    background-color: grey;
+    color: white;
+}
+
+.contact-icon {
+    width: 60px;
+    height: 60px;
+    min-width: 60px;
+    min-height: 60px;
+    border-radius: 50%;
+    background-color: black;
+    margin-bottom: 15px;
+    color: white;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 22px;
+}
+
+.contact-detail h6 {
+    font-size: 17px;
+    font-weight: 600;
+    margin-bottom: 10px;
+}
+
+.contact-detail ul li {
+    font-size: 16px;
+    line-height: 25px;
+    margin-bottom: 8px;
+}
+.contact-detail ul li a{
+    display: inline-block;
+    margin-left: 5px;
+    color: white;
+    word-break: break-all;
+    text-decoration: none;
+}
+
+.contact-data-box1{
+    padding: 24px;
+    height: 100%;
+    box-shadow: 0px 15px 18px 0px rgb(0 0 0 / 7%);
+    border-radius: 10px;
+    background-color: #E1D9D1;
+}
+
+.submit-cnt-btn{
+    background-color: #F52887;
+    color: #fff !important;
+    padding: 11px 30px;
+    border-radius: 5px;
+    transition: 0.5s;
+    font-weight: bold;
+    border: none;
+}
